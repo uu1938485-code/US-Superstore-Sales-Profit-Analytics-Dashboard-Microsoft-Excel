@@ -27,7 +27,7 @@ Ranked bar chart identifying the most profitable customers:
 - Mark Cousins — $1,614
 - John Murray — $1,270
 - Dean Percer — $1,118
-![image alt](https://github.com/uu1938485-code/US-Superstore-Sales-Profit-Analytics-Dashboard-Microsoft-Excel/blob/65e3993c45d63cb7bd640db7b539e23452192811/3.JPG)
+
 
 ### Dashboard 4 — Sales by State
 Geographical performance chart across all US states:
@@ -36,13 +36,12 @@ Geographical performance chart across all US states:
 - Washington — **$3,841**
 - Texas — $3,085
 - Pennsylvania — $3,130
-![image alt]( https://github.com/uu1938485-code/US-Superstore-Sales-Profit-Analytics-Dashboard-Microsoft-Excel/blob/65e3993c45d63cb7bd640db7b539e23452192811/4.JPG)
 
 ### Dashboard 5 — Sales by Month
 Monthly revenue tracker showing full year performance:
 - Peak Month: **June — $152,719**
 - Includes Month & Category slicers for dynamic filtering
-![image alt]( https://github.com/uu1938485-code/US-Superstore-Sales-Profit-Analytics-Dashboard-Microsoft-Excel/blob/65e3993c45d63cb7bd640db7b539e23452192811/5.JPG)
+
 
 ## Key Business Insights
 
