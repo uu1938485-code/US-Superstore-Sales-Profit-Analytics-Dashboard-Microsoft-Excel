@@ -31,7 +31,7 @@ Ranked bar chart identifying the most profitable customers:
 
 ![image alt]( https://github.com/uu1938485-code/US-Superstore-Sales-Profit-Analytics-Dashboard-Microsoft-Excel/blob/65e3993c45d63cb7bd640db7b539e23452192811/2.JPG)
 
-### Dashboard 4 — Sales by State
+### Dashboard 3 Sales by State
 Geographical performance chart across all US states:
 - California — **$12,068**
 - New York — **$7,729**
@@ -95,11 +95,11 @@ Monthly revenue tracker showing full year performance:
  
  Purpose Sales Performance & Profit Analysis 
 
-## 👨‍💻 About Me
+## About Me
 
 Aspiring **Data Analyst / Business Intelligence Analyst** passionate about 
 turning raw business data into clear, actionable insights that help 
 organizations make smarter decisions.
 
  **LinkedIn:** (linkedin.com/in/umair-ishtiaq-893127293)  
- **GitHub:** ()
+ **GitHub:** (https://github.com/uu1938485-code)
