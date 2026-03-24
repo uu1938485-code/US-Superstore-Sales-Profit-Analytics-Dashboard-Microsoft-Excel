@@ -87,13 +87,13 @@ Monthly revenue tracker showing full year performance:
 
 ## Dataset Information
 
- Dataset US Superstore Sales Data
+ Dataset: US Superstore Sales Data
  
- Period 2021 – 2024 
+ Period: 2021 – 2024 
  
- Tool Microsoft Excel 
+ Tool: Microsoft Excel 
  
- Purpose Sales Performance & Profit Analysis 
+ Purpose: Sales Performance & Profit Analysis 
 
 ## About Me
 
