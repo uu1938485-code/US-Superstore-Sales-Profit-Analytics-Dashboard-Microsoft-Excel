@@ -37,6 +37,8 @@ Geographical performance chart across all US states:
 - Texas — $3,085
 - Pennsylvania — $3,130
 
+![image alt]( https://github.com/uu1938485-code/US-Superstore-Sales-Profit-Analytics-Dashboard-Microsoft-Excel/blob/65e3993c45d63cb7bd640db7b539e23452192811/4.JPG)
+
 ### Dashboard 5 — Sales by Month
 Monthly revenue tracker showing full year performance:
 - Peak Month: **June — $152,719**
