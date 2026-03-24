@@ -10,7 +10,7 @@ Pivot Charts, and Slicers.
 Column chart tracking yearly profit trends with **Category & Year slicers** 
 for dynamic filtering. Users can filter by any product category or year 
 to drill down into specific profit performance.
-[!image]( https://github.com/uu1938485-code/US-Superstore-Sales-Profit-Analytics-Dashboard-Microsoft-Excel/blob/65e3993c45d63cb7bd640db7b539e23452192811/1.JPG)
+![image alt]( https://github.com/uu1938485-code/US-Superstore-Sales-Profit-Analytics-Dashboard-Microsoft-Excel/blob/65e3993c45d63cb7bd640db7b539e23452192811/1.JPG)
 
 ### Dashboard 2 — Sales by Category
 Horizontal bar chart breaking down **Technology sub-categories**:
