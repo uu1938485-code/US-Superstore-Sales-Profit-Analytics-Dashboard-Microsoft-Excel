@@ -1,16 +1,16 @@
-# 📊 US Superstore Sales & Profit Analytics Dashboard | Microsoft Excel
+#  US Superstore Sales & Profit Analytics Dashboard | Microsoft Excel
 
 An interactive multi-dashboard report analyzing **4 years of US Superstore 
 sales data (2021–2024)** built using Microsoft Excel — Pivot Tables, 
 Pivot Charts, and Slicers.
 
-## 🖼️ Dashboard Descriptions
+##  Dashboard Descriptions
 
 ### Dashboard 1 — Profit by Year
 Column chart tracking yearly profit trends with **Category & Year slicers** 
 for dynamic filtering. Users can filter by any product category or year 
 to drill down into specific profit performance.
-![Dashboard 1](1.GIF)
+[!image]( https://github.com/uu1938485-code/US-Superstore-Sales-Profit-Analytics-Dashboard-Microsoft-Excel/blob/65e3993c45d63cb7bd640db7b539e23452192811/1.JPG)
 
 ### Dashboard 2 — Sales by Category
 Horizontal bar chart breaking down **Technology sub-categories**:
