@@ -10,17 +10,18 @@ Pivot Charts, and Slicers.
 Column chart tracking yearly profit trends with **Category & Year slicers** 
 for dynamic filtering. Users can filter by any product category or year 
 to drill down into specific profit performance.
+
 ![image alt]( https://github.com/uu1938485-code/US-Superstore-Sales-Profit-Analytics-Dashboard-Microsoft-Excel/blob/65e3993c45d63cb7bd640db7b539e23452192811/1.JPG)
 
 ### Dashboard 2 Sales by Category
+
 Horizontal bar chart breaking down **Technology sub-categories**:
 -  Phones — **$38,814**
 -  Machines — **$22,046**
 -  Accessories — **$17,566**
 - Copiers — $2,790
-![image alt]( https://github.com/uu1938485-code/US-Superstore-Sales-Profit-Analytics-Dashboard-Microsoft-Excel/blob/65e3993c45d63cb7bd640db7b539e23452192811/2.JPG)
 
-### Dashboard 3 — Profit by Top 10 Customers
+### Profit by Top 10 Customers
 Ranked bar chart identifying the most profitable customers:
 - Keith Dawkins — **$2,509**
 - Nathan Mautz — $2,243
@@ -28,6 +29,7 @@ Ranked bar chart identifying the most profitable customers:
 - John Murray — $1,270
 - Dean Percer — $1,118
 
+![image alt]( https://github.com/uu1938485-code/US-Superstore-Sales-Profit-Analytics-Dashboard-Microsoft-Excel/blob/65e3993c45d63cb7bd640db7b539e23452192811/2.JPG)
 
 ### Dashboard 4 — Sales by State
 Geographical performance chart across all US states:
@@ -37,13 +39,12 @@ Geographical performance chart across all US states:
 - Texas — $3,085
 - Pennsylvania — $3,130
 
-![image alt](https://github.com/uu1938485-code/US-Superstore-Sales-Profit-Analytics-Dashboard-Microsoft-Excel/blob/65e3993c45d63cb7bd640db7b539e23452192811/3.JPG)
-
-### Dashboard 5 — Sales by Month
+### Sales by Month
 Monthly revenue tracker showing full year performance:
 - Peak Month: **June — $152,719**
 - Includes Month & Category slicers for dynamic filtering
 
+![image alt](https://github.com/uu1938485-code/US-Superstore-Sales-Profit-Analytics-Dashboard-Microsoft-Excel/blob/65e3993c45d63cb7bd640db7b539e23452192811/3.JPG)
 
 ## Key Business Insights
 
@@ -57,13 +58,20 @@ Monthly revenue tracker showing full year performance:
 
 ##  Tools & Technologies Used
 
- Microsoft Excel Main platform for data, analysis & dashboards 
+ Microsoft Excel Main platform for data, analysis & dashboards
+ 
  Pivot Tables Multi-dimensional data summarization 
+ 
  Pivot Charts Visual representation of Pivot Table data 
+ 
  Slicers Interactive filtering (Category, Year, Month, State) 
+ 
  Column Chart Yearly profit trend analysis 
+ 
  Horizontal Bar Chart Category & customer comparison 
+ 
  Line Chart Monthly & yearly trend tracking 
+ 
  Geographic Bar Chart State-wise sales performance 
 
 ## Skills Demonstrated
@@ -80,9 +88,12 @@ Monthly revenue tracker showing full year performance:
 ## Dataset Information
 
  Dataset US Superstore Sales Data
+ 
  Period 2021 – 2024 
+ 
  Tool Microsoft Excel 
- Purpose | Sales Performance & Profit Analysis 
+ 
+ Purpose Sales Performance & Profit Analysis 
 
 ## 👨‍💻 About Me
 
@@ -90,5 +101,5 @@ Aspiring **Data Analyst / Business Intelligence Analyst** passionate about
 turning raw business data into clear, actionable insights that help 
 organizations make smarter decisions.
 
- **LinkedIn:** ( linkedin.com/in/umair-ishtiaq-893127293)  
- **GitHub:** ( )
+ **LinkedIn:** (linkedin.com/in/umair-ishtiaq-893127293)  
+ **GitHub:** ()
